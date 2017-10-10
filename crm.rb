@@ -131,4 +131,3 @@ contact4 = Contact.create('Billy', 'Thornton', 'billy@none.com', 'doctor')
 a_crm_app = CRM.new
 a_crm_app.main_menu
 
-puts Contact.find(2)
